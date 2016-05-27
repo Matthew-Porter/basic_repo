@@ -1,3 +1,26 @@
 *{
-	background-color: red;
+	outline: 1px dotted red
+
 }
+div#wrapper{
+	width: 970px;
+	height: 8
+	00px;
+	background-color: black;
+	color: white;
+}
+img	{
+	display: inline;
+	height: 300px;
+	width: 400px;
+	margin: 5px;
+	}
+h1 	{
+	width: 820px;
+}
+p{
+	width: 820px;
+}
+h3{ color: yellow; }
+h4{ color: blue; }
+h5{ color: green; }
